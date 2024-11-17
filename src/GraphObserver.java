@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class GraphObserver {
+public interface GraphObserver {
+    void update();
 }
